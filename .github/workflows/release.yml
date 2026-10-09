@@ -29,4 +29,3 @@ jobs:
         run: |
           chmod +x scripts/deploy.sh
           ./scripts/deploy.sh
-Quick S
