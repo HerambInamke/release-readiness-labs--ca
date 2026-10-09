@@ -28,4 +28,4 @@ jobs:
       - name: Deploy to Production
         run: |
           chmod +x scripts/deploy.sh
-          ./scripts/deploy.sh
+
